@@ -25,11 +25,7 @@ const  projects = () => {
             <div className={styles.column}>
                 <img src="https://hamy.iodine.gg/ajc52.webp" style={{ width: '100%' }}/>
                 <a href="https://github.com/notsiege-development/NightHawk" className={styles.names}>A discord moderation bot made for the notsiege-development discord found here: https://discord.gg/zVPCNcCgZE</a>
-                <br></br>
-                <br></br>
-                <br></br>
-                <br></br>
-                <br></br>
+
             </div>
             </div>
             </body>

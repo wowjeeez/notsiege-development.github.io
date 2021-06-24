@@ -32,8 +32,6 @@ const  tebex = () => {
             <div className={styles.column}>
                 <img src="https://hamy.iodine.gg/ajc52.webp" style={{ width: '100%' }}/>
                 <a href="#" className={styles.names}></a>
-                <br></br>
-                <br></br>
             </div>
             </div>
             </body>

@@ -25,8 +25,7 @@ const  team = () => {
             <div className={styles.column}>
                 <img src="https://hamy.iodine.gg/gcbb0.webp" style={{ width: '100%' }}/>
                 <p className={styles.names}>Jacob | Team</p>
-                <br></br>
-                <br></br>
+
             </div>
             </div>
             </body>
