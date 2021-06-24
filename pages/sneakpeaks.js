@@ -35,6 +35,7 @@ const  sneakpeaks = () => {
                 <a href="#" className={styles.names}></a>
                 <br></br>
                 <br></br>
+
             </div>
             </div>
             </body>
