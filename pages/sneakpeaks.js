@@ -11,27 +11,27 @@ const  sneakpeaks = () => {
 
             <div className={styles.row}> 
             <div className={styles.column}>
-                <img src="https://hamy.iodine.gg/ajc52.webp" style={{ width: '100%' }}/>
+                <img src="https://i.iodine.gg/ajc52.webp" style={{ width: '100%' }}/>
                 <a href="#" className={styles.names}></a>
             </div>
             <div className={styles.column}>
-                <img src="https://hamy.iodine.gg/ajc52.webp" style={{ width: '100%' }}/>
+                <img src="https://i.iodine.gg/ajc52.webp" style={{ width: '100%' }}/>
                 <a href="#" className={styles.names}></a>
             </div>
             <div className={styles.column}>
-                <img src="https://hamy.iodine.gg/ajc52.webp" style={{ width: '100%' }}/>
+                <img src="https://i.iodine.gg/ajc52.webp" style={{ width: '100%' }}/>
                 <a href="#" className={styles.names}></a>
             </div>
             <div className={styles.column}>
-                <img src="https://hamy.iodine.gg/ajc52.webp" style={{ width: '100%' }}/>
+                <img src="https://i.iodine.gg/ajc52.webp" style={{ width: '100%' }}/>
                 <a href="#" className={styles.names}></a>
             </div>
             <div className={styles.column}>
-                <img src="https://hamy.iodine.gg/ajc52.webp" style={{ width: '100%' }}/>
+                <img src="https://i.iodine.gg/ajc52.webp" style={{ width: '100%' }}/>
                 <a href="#" className={styles.names}></a>
             </div>
             <div className={styles.column}>
-                <img src="https://hamy.iodine.gg/ajc52.webp" style={{ width: '100%' }}/>
+                <img src="https://i.iodine.gg/ajc52.webp" style={{ width: '100%' }}/>
                 <a href="#" className={styles.names}></a>
             </div>
             </div>

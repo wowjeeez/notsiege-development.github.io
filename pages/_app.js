@@ -33,26 +33,26 @@ function MyApp({ Component, pageProps }) {
         <meta name="og:title" content="notsiege development"/>
         <meta name="og:type" content="Buisness"/>
         <meta name="og:url" content="https://notsiege.dev"/>
-        <meta name="og:image" content="https://hamy.iodine.gg/4ag07.jpeg"/>
+        <meta name="og:image" content="https://i.iodine.gg/4ag07.jpeg"/>
         <meta name="og:site_name" content="notsiege-development"/>
         <meta property="og:description" content="NSD is a group of people devoted to making GTAV a better place. We mainly make cars, skins, scripts and maps but we also make many more mods!"/>
         <meta name="og:email" content="pr@notsiege.dev"/>
         <meta name="og:region" content="CA"/>
         <meta name="og:postal-code" content="00000"/>
         <meta name="og:country-name" content="USA"/>
-        <meta property="og:video" content="https://hamy.iodine.gg/7dc2b.mp4" />
+        <meta property="og:video" content="https://i.iodine.gg/7dc2b.mp4" />
         <meta property="og:video:type" content="video/mp4"/>
         <meta property="og:url" content="https://notsiege.dev"/>
         <meta property="og:type" content="website"/>
         <meta property="og:title" content="notsiege development"/>
         <meta property="og:description" content="NSD is a group of people devoted to making GTAV a better place. We mainly make cars, skins, scripts and maps but we also make many more mods!"/>
-        <meta property="og:image" content="https://hamy.iodine.gg/4ag07.jpeg"/>
+        <meta property="og:image" content="https://i.iodine.gg/4ag07.jpeg"/>
         <meta name="twitter:card" content="summary_large_image"/>
         <meta property="twitter:domain" content="notsiege.dev"/>
         <meta property="twitter:url" content="https://notsiege.dev"/>
         <meta name="twitter:title" content="notsiege development"/>
         <meta name="twitter:description" content="NSD is a group of people devoted to making GTAV a better place. We mainly make cars, skins, scripts and maps but we also make many more mods!"/>
-        <meta name="twitter:image" content="https://hamy.iodine.gg/4ag07.jpeg"/>
+        <meta name="twitter:image" content="https://i.iodine.gg/4ag07.jpeg"/>
         <meta name="theme-color" content="#0090ff"/>
         <link rel="manifest" href="manifest.json"/>
         <link rel="manifest" href="manifest.webmanifest" crossOrigin="use-credentials"></link>
